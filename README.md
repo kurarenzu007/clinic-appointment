@@ -17,7 +17,7 @@ A streamlined patient scheduling platform designed to digitize manual clinic pro
 
 ## 📖 About the Project
 
-This project was developed as a requirement for **BSIT 3rd Year**. The primary goal was to solve the inefficiencies of manual/paper-based appointment setting in local clinics.
+This project was developed as a requirement for **BSIT 4th Year**. The primary goal was to solve the inefficiencies of manual/paper-based appointment setting in local clinics.
 
 By automating the scheduling process, this system aims to:
 * **Reduce waiting times** for patients.
