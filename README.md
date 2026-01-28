@@ -94,7 +94,6 @@ To get a local copy up and running, follow these simple steps.
 ## 👤 Author
 
 **Clarence F. Felicilda**
-* **Portfolio:** [Link](https://kurarenzu007.github.io/AnimalAdoption/)
 * **GitHub:** [@kurarenzu007](https://github.com/kurarenzu007)
 * **LinkedIn:** [Clarence Felicilda](https://linkedin.com/in/clarence-felicilda-13667728a)
 
